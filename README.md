@@ -1,14 +1,14 @@
 # SIM_Rainer-
 ## Beschreibung
-Dieses Python Programm gibt das Ergebnis einer Addidtion, Subtraktion, Multiplikation und Divsion von zwei Brüchen aus.
-Zur Überprüfung laufen nach jeder Änderung 4 Testprogramme durch.
+Dieses Python Programm gibt das Ergebnis einer Addidtion, Subtraktion, Multiplikation und Divsion von zwei Brüchen aus.  
+Zur Überprüfung laufen nach jeder Änderung 4 Testprogramme durch.  
 Das Programm ist unter Apache Lizenz 2.0 lizenziert.
 
-## Dabei wurden folgende Funktionen definiert:
-add_frac: addiert die Brüche
-add_multi: multipliziert die Brüche
-add_sub: Subtrahiert die Brüche
-add_div: dividiert die Brüche
+## Dabei wurden folgende Funktionen definiert:  
+- add_frac: addiert die Brüche  
+- add_multi: multipliziert die Brüche  
+- add_sub: Subtrahiert die Brüche  
+- add_div: dividiert die Brüche  
 
 
 
