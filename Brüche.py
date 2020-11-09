@@ -9,6 +9,8 @@ def add_frac(z1,n1,z2,n2):
     a=[z1*n2,n1*n2]
     b=[z2*n1,n2*n1]
     c=[a[0]+b[0],a[1]]
-    return c
+    return a,b,c
+
+
 
 
