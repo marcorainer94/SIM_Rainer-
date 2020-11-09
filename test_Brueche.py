@@ -12,3 +12,8 @@ def test_add_frac():
 from Brueche import multi_frac   
 def test_multi_frac(): 
     assert multi_frac(2,3,4,5) == [8, 15]
+
+from Brueche import sub_frac 
+def test_sub_frac(): 
+    assert sub_frac(2,3,4,5) == [-2, 15] 
+    

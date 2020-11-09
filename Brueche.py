@@ -17,4 +17,8 @@ def multi_frac(z1,n1,z2,n2):
     f=[d[0],e[0]]
     return f
 
-
+def sub_frac(z1,n1,z2,n2):
+    g=[z1*n2,n1*n2]
+    h=[z2*n1,n2*n1]
+    i=[g[0]-h[0],g[1]]
+    return i
