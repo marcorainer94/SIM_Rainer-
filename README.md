@@ -1,4 +1,8 @@
 # SIM_Rainer-
+## Beschreibung
+Dieses Python Programm gibt das Ergebnis einer Addidtion, Subtraktion, Multiplikation und Divsion von zwei Brüchen aus.
+Zur Überprüfung laufen nach jeder Änderung 4 Testprogramme durch.
+Das Programm ist unter Apache Lizenz 2.0 lizenziert.
 
 Copyright 2020 Rainer
 
