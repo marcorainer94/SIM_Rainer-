@@ -22,3 +22,9 @@ def sub_frac(z1,n1,z2,n2):
     h=[z2*n1,n2*n1]
     i=[g[0]-h[0],g[1]]
     return i
+
+def div_frac(z1,n1,z2,n2):
+    j=[z1*n2]
+    k=[z2*n1]
+    l=[j[0],k[0]]
+    return l

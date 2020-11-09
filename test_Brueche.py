@@ -16,4 +16,7 @@ def test_multi_frac():
 from Brueche import sub_frac 
 def test_sub_frac(): 
     assert sub_frac(2,3,4,5) == [-2, 15] 
-    
+
+from Brueche import div_frac   
+def test_div_frac(): 
+    assert div_frac(2,3,4,5) == [10, 12]    
