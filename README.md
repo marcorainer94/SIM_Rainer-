@@ -4,6 +4,15 @@ Dieses Python Programm gibt das Ergebnis einer Addidtion, Subtraktion, Multiplik
 Zur Überprüfung laufen nach jeder Änderung 4 Testprogramme durch.
 Das Programm ist unter Apache Lizenz 2.0 lizenziert.
 
+## Dabei wurden folgende Funktionen definiert:
+add_frac: addiert die Brüche
+add_multi: multipliziert die Brüche
+add_sub: Subtrahiert die Brüche
+add_div: dividiert die Brüche
+
+
+
+
 Copyright 2020 Rainer
 
    Licensed under the Apache License, Version 2.0 (the "License");
